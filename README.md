@@ -50,6 +50,8 @@ Un compendio ultra práctico de tips, guías y consejos tácticos que acelera tu
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNyYTdrZ282MHZ2NG43eW9odjc2aWNueDl4aG1zbGo2MXVwbjE1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WrancPwf63Kovsglwm/giphy.gif" width = 80px>  </picture> Plantillas informes <br><br>
+
 • <a href="https://github.com/Aquiles369/arsenal-de-bug-bounty-recursos/blob/main/asset/informe.png" target="_blank" rel="noopener"> informe.png </a>
 
 • <a href="https://github.com/Aquiles369/arsenal-de-bug-bounty-recursos/blob/main/asset/informe_bueno" target="_blank" rel="noopener">informe_bueno </a>
