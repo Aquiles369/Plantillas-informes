@@ -19,7 +19,7 @@
 <br><br> 
 
 <p align="center">
- <img  height="320rem" alt="GIF" src="https://github.com/Aquiles369/iconos/blob/main/demo_400_tips.gif"/>
+ <img  height="320rem" alt="GIF" src="https://github.com/Aquiles369/iconos/blob/main/demo_platilla_informes.gif"/>
 </p>
 
 <br>
